@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netstandard2.1</TargetFramework>
+        <IsPackable>true</IsPackable>
+        <PackageVersion>0.1.1</PackageVersion>
+        <Title>SugarchainApiClient</Title>
+        <Authors>Ivan Terentev</Authors>
+        <Description>Sugarchain Http Api Client</Description>
+        <Copyright>terentev-space</Copyright>
+        <RepositoryUrl>https://github.com/terentev-space/SugarchainApiClient</RepositoryUrl>
+        <AssemblyVersion>0.1.1</AssemblyVersion>
+        <FileVersion>0.1.1</FileVersion>
+        <PackageId>SugarchainApiClient</PackageId>
+        <PackageLicenseUrl>https://raw.githubusercontent.com/terentev-space/SugarchainApiClient/master/LICENSE</PackageLicenseUrl>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="5.0.1" />
+      <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="5.0.0" />
+      <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    </ItemGroup>
+
+</Project>
