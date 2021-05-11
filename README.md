@@ -1,7 +1,7 @@
 # SugarchainApiClient
 
-[![Latest Version](https://img.shields.io/github/release/terentev-space/SugarchainApiClient.svg?style=flat-square)](https://github.com/terentev-space/SugarchainApiClient/releases)
-[![Software License](https://img.shields.io/badge/license-Apache_2.0-brightgreen.svg?style=flat-square)](LICENSE)
+[![Latest Version](https://img.shields.io/github/v/tag/terentev-space/SugarchainApiClient)](https://github.com/terentev-space/SugarchainApiClient/releases)
+[![Software License](https://img.shields.io/badge/license-Apache_2.0-brightgreen.svg)](LICENSE)
 [![NuGet](https://img.shields.io/nuget/v/SugarchainApiClient.svg)](https://www.nuget.org/packages/SugarchainApiClient) 
 [![downloads](https://img.shields.io/nuget/dt/SugarchainApiClient)](https://www.nuget.org/packages/SugarchainApiClient) 
 [![Size](https://img.shields.io/github/repo-size/terentev-space/SugarchainApiClient.svg)]()
